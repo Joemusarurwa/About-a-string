@@ -4,9 +4,9 @@ What is the mission?
 
 If you choose, its is to do the following:
 
-    -Create a function that will create number words, characters and spaces
+    -Create a function that will count the number of words, characters and spaces
 
-    -What is this "string" backwards?
+    -What is this "string" spelt backwards?
 
     -How many spaces does this string have?
     
